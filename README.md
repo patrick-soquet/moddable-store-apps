@@ -1,2 +1,2 @@
 # moddable-store-apps
-Moddable Store Spps
+Moddable Store Apps
