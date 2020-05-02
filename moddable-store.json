@@ -1,33 +1,45 @@
 {
 	"tech.moddable.balls": {
-		"title": "Balls",
-		"subtitle": "Four bouncing balls",
+		"release": {
+			"title": "Balls",
+			"subtitle": "Four bouncing balls"
+		}
 	},
 	"tech.moddable.blink": {
-		"title": "Blink",
-		"subtitle": "LED test",
+		"release": {
+			"title": "Blink",
+			"subtitle": "LED test"
+		}
 	},
 	"tech.moddable.countdown": {
-		"title": "Countdown",
-		"subtitle": "Hue animation",
+		"release": {
+			"title": "Countdown",
+			"subtitle": "Hue animation"
+		}
 	},
 	"tech.moddable.eink-base": {
-		"title": "Eink Base",
-		"subtitle": "Designed by Moddable",
+		"release": {
+		},
 		"mods": [
 		],
 	},
 	"tech.moddable.runmod": {
-		"title": "Run Mods",
-		"subtitle": "User interface host",
+		"release": {
+			"title": "Run Mods",
+			"subtitle": "User interface host",
+		},
 		"mods": [
 			{
 				"path": "modballs",
+				"title": "Balls",
+				"subtitle": "Four bouncing balls"
 			},
 		],
 	},
 	"tech.moddable.transitions": {
-		"title": "Transitions",
-		"subtitle": "Wipes and combs",
+		"release": {
+			"title": "Transitions",
+			"subtitle": "Wipes and combs"
+		}
 	}
 }
