@@ -26,6 +26,12 @@
 			},
 		],
 	},
+	"tech.moddable.love-e-ink": {
+		"app": {
+			"title": "Love Eink",
+			"subtitle": "E-paper animation"
+		}
+	},
 	"tech.moddable.runmod": {
 		"app": {
 			"title": "Run Mods",
