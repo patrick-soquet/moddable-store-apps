@@ -14,11 +14,25 @@
 	"tech.moddable.countdown": {
 		"app": {
 			"title": "Countdown",
-			"subtitle": "Hue animation"
+			"subtitle": "Hue animation",
+			"preferences": [
+				{
+					"path": "config",
+					"title": "Date",
+					"subtitle": "Countdown duration",
+				}
+			]
 		}
 	},
 	"tech.moddable.eink-base": {
 		"app": {
+			"preferences": [
+				{
+					"path": "config",
+					"title": "Wi-Fi",
+					"subtitle": "Network and password",
+				}
+			]
 		},
 		"mods": [
 			{
