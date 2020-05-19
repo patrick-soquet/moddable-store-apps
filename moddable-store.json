@@ -2,24 +2,26 @@
 	"tech.moddable.balls": {
 		"app": {
 			"title": "Balls",
-			"subtitle": "Four bouncing balls"
+			"author": "Moddable",
+			"description": "Four bouncing balls"
 		}
 	},
 	"tech.moddable.blink": {
 		"app": {
 			"title": "Blink",
-			"subtitle": "LED test"
+			"author": "Moddable",
+			"description": "LED test"
 		}
 	},
 	"tech.moddable.countdown": {
 		"app": {
 			"title": "Countdown",
-			"subtitle": "Hue animation",
+			"author": "Moddable",
+			"description": "Hue animation",
 			"preferences": [
 				{
 					"path": "config",
 					"title": "Date",
-					"subtitle": "Countdown duration",
 				}
 			]
 		}
@@ -30,39 +32,44 @@
 				{
 					"path": "config",
 					"title": "Wi-Fi",
-					"subtitle": "Network and password",
 				}
 			]
 		},
 		"mods": [
 			{
 				"path": "eink-custom",
+				"author": "Moddable",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque scelerisque non mi nec varius. Curabitur egestas nec mauris nec ornare. Nulla facilisi. Suspendisse et arcu in sapien lacinia dapibus non quis orci. Sed lectus velit, accumsan non ipsum nec, imperdiet gravida massa. Nam urna metus, tempor non hendrerit nec, rutrum eu ante. Sed venenatis urna felis, sed gravida dolor mattis id. Donec volutpat mattis purus. Nullam viverra auctor erat id euismod.",
 			},
 		],
 	},
 	"tech.moddable.love-e-ink": {
 		"app": {
 			"title": "Love Eink",
-			"subtitle": "E-paper animation"
+			"author": "Moddable",
+			"description": "E-paper animation"
 		}
 	},
 	"tech.moddable.runmod": {
 		"app": {
 			"title": "Run Mods",
-			"subtitle": "User interface host",
+			"author": "Moddable",
+			"description": "User interface host",
 		},
 		"mods": [
 			{
 				"path": "modballs",
 				"title": "Balls",
-				"subtitle": "Four bouncing balls"
+				"author": "Moddable",
+				"description": "Four bouncing balls"
 			},
 		],
 	},
 	"tech.moddable.transitions": {
 		"app": {
 			"title": "Transitions",
-			"subtitle": "Wipes and combs"
+			"author": "Moddable",
+			"description": "Wipes and combs"
 		}
 	}
 }
