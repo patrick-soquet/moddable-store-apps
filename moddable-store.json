@@ -3,14 +3,16 @@
 		"app": {
 			"title": "Balls",
 			"author": "Moddable",
-			"description": "Four bouncing balls"
+			"description": "Four bouncing balls",
+			"home": "https://github.com/Moddable-OpenSource/moddable"
 		}
 	},
 	"tech.moddable.blink": {
 		"app": {
 			"title": "Blink",
 			"author": "Moddable",
-			"description": "LED test"
+			"description": "LED test",
+			"home": "https://github.com/Moddable-OpenSource/moddable"
 		}
 	},
 	"tech.moddable.countdown": {
@@ -18,6 +20,7 @@
 			"title": "Countdown",
 			"author": "Moddable",
 			"description": "Hue animation",
+			"home": "https://github.com/Moddable-OpenSource/moddable",
 			"preferences": [
 				{
 					"path": "config",
@@ -69,7 +72,8 @@
 		"app": {
 			"title": "Transitions",
 			"author": "Moddable",
-			"description": "Wipes and combs"
+			"description": "Wipes and combs",
+			"home": "https://github.com/Moddable-OpenSource/moddable"
 		}
 	}
 }
