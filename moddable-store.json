@@ -23,6 +23,10 @@
 			"home": "https://github.com/Moddable-OpenSource/moddable",
 			"preferences": [
 				{
+					"path": "wifi",
+					"title": "Wi-Fi",
+				},
+				{
 					"path": "config",
 					"title": "Date",
 				}
@@ -33,7 +37,7 @@
 		"app": {
 			"preferences": [
 				{
-					"path": "config",
+					"path": "wifi",
 					"title": "Wi-Fi",
 				}
 			]
