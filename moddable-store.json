@@ -4,7 +4,7 @@
 			"title": "Balls",
 			"author": "Moddable",
 			"description": "Four bouncing balls",
-			"home": "https://github.com/Moddable-OpenSource/moddable"
+			"home": "https://github.com/Moddable-OpenSource/moddable/tree/public/examples/piu/balls"
 		}
 	},
 	"tech.moddable.blink": {
@@ -12,7 +12,7 @@
 			"title": "Blink",
 			"author": "Moddable",
 			"description": "LED test",
-			"home": "https://github.com/Moddable-OpenSource/moddable"
+			"home": "https://github.com/Moddable-OpenSource/moddable/tree/public/examples/pins/blink"
 		}
 	},
 	"tech.moddable.countdown": {
@@ -20,7 +20,7 @@
 			"title": "Countdown",
 			"author": "Moddable",
 			"description": "Hue animation",
-			"home": "https://github.com/Moddable-OpenSource/moddable",
+			"home": "https://github.com/Moddable-OpenSource/moddable/tree/public/examples/piu/countdown",
 			"preferences": [
 				{
 					"path": "wifi",
@@ -77,7 +77,7 @@
 			"title": "Transitions",
 			"author": "Moddable",
 			"description": "Wipes and combs",
-			"home": "https://github.com/Moddable-OpenSource/moddable"
+			"home": "https://github.com/Moddable-OpenSource/moddable/tree/public/examples/piu/transitions"
 		}
 	}
 }
