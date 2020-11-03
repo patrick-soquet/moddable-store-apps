@@ -9,7 +9,7 @@
 
 			"./assets/sm-circle-highlight",
 			"./assets/sm-fan",
-			"./assets/sm-flame",
+			"./assets/sm-flame"
 		],
 		"*": [
 
@@ -18,7 +18,7 @@
 			"./assets/tree",
 			"./assets/sm-down-curve",
 			"./assets/sm-up-curve",
-			"./assets/sm-sun",
+			"./assets/sm-sun"
 		]
 	}
 }

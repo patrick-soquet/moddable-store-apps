@@ -9,12 +9,12 @@
 			"./assets/temp-disc",
 			"./assets/set-disc",
 			"./assets/down-curve",
-			"./assets/up-curve",
+			"./assets/up-curve"
 		],
 		"*-mask": [
 			"./assets/fan",
 			"./assets/flame",
-			"./assets/circle-highlight",
+			"./assets/circle-highlight"
 		]
 	}
 }

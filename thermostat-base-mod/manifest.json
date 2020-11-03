@@ -8,7 +8,7 @@
 		"*": [
 			"./assets/sun",
 			"./assets/sm-up-arrow",
-			"./assets/sm-down-arrow",
+			"./assets/sm-down-arrow"
 		]
 	}
 }

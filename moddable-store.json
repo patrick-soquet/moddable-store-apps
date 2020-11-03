@@ -24,11 +24,11 @@
 			"preferences": [
 				{
 					"path": "wifi",
-					"title": "Wi-Fi",
+					"title": "Wi-Fi"
 				},
 				{
 					"path": "config",
-					"title": "Date",
+					"title": "Date"
 				}
 			]
 		}
@@ -38,7 +38,7 @@
 			"preferences": [
 				{
 					"path": "wifi",
-					"title": "Wi-Fi",
+					"title": "Wi-Fi"
 				}
 			]
 		},
@@ -46,17 +46,17 @@
 			{
 				"path": "eink-custom",
 				"author": "Moddable",
-				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque scelerisque non mi nec varius. Curabitur egestas nec mauris nec ornare. Nulla facilisi. Suspendisse et arcu in sapien lacinia dapibus non quis orci. Sed lectus velit, accumsan non ipsum nec, imperdiet gravida massa. Nam urna metus, tempor non hendrerit nec, rutrum eu ante. Sed venenatis urna felis, sed gravida dolor mattis id. Donec volutpat mattis purus. Nullam viverra auctor erat id euismod.",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque scelerisque non mi nec varius. Curabitur egestas nec mauris nec ornare. Nulla facilisi. Suspendisse et arcu in sapien lacinia dapibus non quis orci. Sed lectus velit, accumsan non ipsum nec, imperdiet gravida massa. Nam urna metus, tempor non hendrerit nec, rutrum eu ante. Sed venenatis urna felis, sed gravida dolor mattis id. Donec volutpat mattis purus. Nullam viverra auctor erat id euismod."
 			},
 			{
 				"path": "eink-fortune",
 				"author": "Moddable",
-				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque scelerisque non mi nec varius. Curabitur egestas nec mauris nec ornare. Nulla facilisi. Suspendisse et arcu in sapien lacinia dapibus non quis orci. Sed lectus velit, accumsan non ipsum nec, imperdiet gravida massa. Nam urna metus, tempor non hendrerit nec, rutrum eu ante. Sed venenatis urna felis, sed gravida dolor mattis id. Donec volutpat mattis purus. Nullam viverra auctor erat id euismod.",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque scelerisque non mi nec varius. Curabitur egestas nec mauris nec ornare. Nulla facilisi. Suspendisse et arcu in sapien lacinia dapibus non quis orci. Sed lectus velit, accumsan non ipsum nec, imperdiet gravida massa. Nam urna metus, tempor non hendrerit nec, rutrum eu ante. Sed venenatis urna felis, sed gravida dolor mattis id. Donec volutpat mattis purus. Nullam viverra auctor erat id euismod."
 			},
 			{
 				"path": "eink-holiday",
 				"author": "Moddable",
-				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque scelerisque non mi nec varius. Curabitur egestas nec mauris nec ornare. Nulla facilisi. Suspendisse et arcu in sapien lacinia dapibus non quis orci. Sed lectus velit, accumsan non ipsum nec, imperdiet gravida massa. Nam urna metus, tempor non hendrerit nec, rutrum eu ante. Sed venenatis urna felis, sed gravida dolor mattis id. Donec volutpat mattis purus. Nullam viverra auctor erat id euismod.",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque scelerisque non mi nec varius. Curabitur egestas nec mauris nec ornare. Nulla facilisi. Suspendisse et arcu in sapien lacinia dapibus non quis orci. Sed lectus velit, accumsan non ipsum nec, imperdiet gravida massa. Nam urna metus, tempor non hendrerit nec, rutrum eu ante. Sed venenatis urna felis, sed gravida dolor mattis id. Donec volutpat mattis purus. Nullam viverra auctor erat id euismod."
 			}
 		]
 	},
@@ -71,7 +71,7 @@
 		"app": {
 			"title": "Run Mods",
 			"author": "Moddable",
-			"description": "User interface host",
+			"description": "User interface host"
 		},
 		"mods": [
 			{
@@ -95,7 +95,7 @@
 			"preferences": [
 				{
 					"path": "wifi",
-					"title": "Wi-Fi",
+					"title": "Wi-Fi"
 				}
 			]
 		},
@@ -104,25 +104,25 @@
 				"title": "Bubbles",
 				"path": "thermostat-bubbles",
 				"author": "Moddable",
-				"description": "Display features in brightly colored bubbles",
+				"description": "Display features in brightly colored bubbles"
 			},
 			{
 				"title": "Bubbles Plus",
 				"path": "thermostat-bubbles-plus",
 				"author": "Moddable",
-				"description": "Display features in brightly colored bubbles and add the time, date, and weather forecast",
+				"description": "Display features in brightly colored bubbles and add the time, date, and weather forecast"
 			},
 			{
 				"title": "Thermostat Plus",
 				"path": "thermostat-base-mod",
 				"author": "Moddable",
-				"description": "Add the time, date, and weather forecast to the basic thermostat",
+				"description": "Add the time, date, and weather forecast to the basic thermostat"
 			},
 			{
 				"title": "Slider",
 				"path": "thermostat-slider",
 				"author": "Moddable",
-				"description": "Adjust the desired temperature using a rainbow slider",
+				"description": "Adjust the desired temperature using a rainbow slider"
 			}
 		]
 	},
